@@ -1,2 +1,2 @@
 # Projet-NLP
-Projet NLP Computer Vision utilisant le Deep Learning
+Notebooks du projet NLP/Computer Vision pour la génération automatique de captions
